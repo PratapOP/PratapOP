@@ -115,8 +115,7 @@ React & Next.js development, Event management & sponsorship strategies, Financia
 
 ---
 
-## 📊 GitHub Stats
-
+## GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PratapOP&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PratapOP&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" />
@@ -125,11 +124,6 @@ React & Next.js development, Event management & sponsorship strategies, Financia
 ### 📈 Contribution Activity
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PratapOP&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
-
-### 💻 Language Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratapOP&layout=pie&theme=tokyonight&hide_border=true" alt="Top Languages Pie Chart" />
 </div>
 
 ---
