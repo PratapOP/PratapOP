@@ -1,7 +1,7 @@
 # Hi 👋, I'm Abhiuday Pratap Singh
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Finance+Enthusiast;Data+Analysis+Explorer;Tech+Community+Leader" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Finance+Enthusiast;Data+Analysis+Explorer;Tech+Community+Leader;AI+%26+ML+Explorer" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
@@ -15,6 +15,17 @@
 📊 Passionate about **data-driven decision-making**, **web technologies**, and **financial optimization**
 
 📍 Based in Noida, Uttar Pradesh, India
+
+🌱 **Currently Learning:** AWS, Docker, Generative AI, Building LLM, MERN Stack
+
+👯 **Looking to Collaborate On:**
+- Development on Behaviour Reading AI
+- AI Assistant Bot that could function as an extension
+- Full-stack fintech applications with AI integration
+- Event management platforms with smart sponsorship matching systems
+- Real-time data analytics dashboards for business insights
+
+💬 **Ask Me About:** React & Next.js development, Event management & sponsorship strategies, Financial planning for large-scale events, Building full-stack web applications, Getting started with Machine Learning, Database design with PostgreSQL, Managing tech teams and finance committees, TypeScript best practices, Data analysis and visualization techniques, Breaking into tech as a student developer
 
 ---
 
@@ -46,6 +57,8 @@
 ### Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
 
@@ -65,27 +78,100 @@
 
 ---
 
+## 🎯 Skills
+
+### Soft Skills
+![Leadership](https://img.shields.io/badge/Leadership-FF6B6B?style=flat-square&logo=target&logoColor=white)
+![Team Management](https://img.shields.io/badge/Team_Management-4ECDC4?style=flat-square&logo=users&logoColor=white)
+![Communication](https://img.shields.io/badge/Communication-95E1D3?style=flat-square&logo=chat&logoColor=white)
+![Problem Solving](https://img.shields.io/badge/Problem_Solving-F38181?style=flat-square&logo=lightbulb&logoColor=white)
+![Strategic Planning](https://img.shields.io/badge/Strategic_Planning-AA96DA?style=flat-square&logo=strategy&logoColor=white)
+
+### Domain Expertise
+- **Finance Management** | Budget Planning & Allocation
+- **Event Management** | Large-scale Event Coordination
+- **Sponsorship Acquisition** | Negotiation & Relationship Building
+- **Project Coordination** | Cross-functional Team Leadership
+- **Client Servicing** | Stakeholder Management
+
+### Languages
+- **English** - Full Professional Proficiency
+- **Hindi** - Professional Working Proficiency
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PratapOP&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PratapOP&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" />
+</div>
+
+### 📈 Contribution Activity
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PratapOP&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</div>
+
+### 🐍 Contribution Snake
+<div align="center">
+  <img src="https://raw.githubusercontent.com/PratapOP/PratapOP/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+### 💻 Language Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratapOP&layout=pie&theme=tokyonight&hide_border=true" alt="Top Languages Pie Chart" />
+</div>
+
+---
+
+## 📌 Pinned Repositories
+
+<div align="center">
+  <a href="https://github.com/PratapOP?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PratapOP&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/PratapOP?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PratapOP&repo=REPO_NAME_2&theme=tokyonight&hide_border=true" />
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <a href="https://github.com/PratapOP?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PratapOP&repo=REPO_NAME_3&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/PratapOP?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PratapOP&repo=REPO_NAME_4&theme=tokyonight&hide_border=true" />
+  </a>
 </div>
+
+*Note: Replace `REPO_NAME_1`, `REPO_NAME_2`, etc. with your actual repository names once you have projects to showcase*
+
+---
+
+## 🎓 Education
+
+**Jaypee University of Information Technology, Waknaghat**  
+Bachelor of Technology - BTech, Information Technology  
+*July 2023 - July 2027*
 
 ---
 
 ## 🏅 Certifications
 
 ✅ Data Structure and Algorithm in C  
-✅ Java 
+✅ Java Basics  
 ✅ Python Programming  
 ✅ Project Management  
-✅ Data Analysis and Visualization
+✅ Data Analysis and Visualization  
 ✅ Full Stack Development
+
+---
+
+## 🎮 Hobbies & Interests
+
+**⚡ Sports:** Chess ♟️ | Cricket 🏏  
+**🎮 Gaming:** Minecraft | Pokemon GBA  
+**🎵 Music:** Hip Hop | Indie
 
 ---
 
