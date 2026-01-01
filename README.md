@@ -18,17 +18,23 @@
 
 📍 Based in Noida, Uttar Pradesh, India
 
-🌱 **Currently Learning:** AWS, Docker, Generative AI, Building LLM, MERN Stack, Data Structures
+🌱 **Currently Learning:** 
+_[Not in Order]_
+- AWS
+- Docker
+- Generative AI
+- Building LLM
+- MERN Stack
+- Data Structures
+- Power BI
 
 👯 **Looking to Collaborate On:**
 - Development on Behaviour Reading AI
 - AI Assistant Bot that could function as an extension
 - Full-stack fintech applications with AI integration
-- Event management platforms with smart sponsorship matching systems
+- Event Management platforms with smart sponsorship matching systems
 - Real-time data analytics dashboards for business insights
-
-💬 **More of me About:** 
-React & Next.js development, Event management & sponsorship strategies, Financial planning for large-scale events, Building full-stack web applications, Getting started with Machine Learning, Database design with PostgreSQL, Managing tech teams and finance committees, TypeScript best practices, Data analysis and visualization techniques, Breaking into tech as a student developer
+- Workplace Management System with features focusing on the assistance of Employee's mental health for Corporate Companies.
 
 ---
 
@@ -115,11 +121,20 @@ React & Next.js development, Event management & sponsorship strategies, Financia
 
 ---
 
-## GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PratapOP&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PratapOP&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" />
-</div>
+## 📊 GitHub Stats
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=PratapOP&show_icons=true&theme=tokyonight&hide_border=true"
+    height="170"
+  />
+</p>
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=PratapOP&theme=tokyonight&hide_border=true"
+    height="170"
+  />
+</p>
 
 ### 📈 Contribution Activity
 <div align="center">
@@ -153,6 +168,17 @@ Bachelor of Technology - BTech, Information Technology
 **🎮 Gaming:** Minecraft | Pokemon GBA  
 **🎵 Music:** Hip Hop | Indie
 
+💬 **Ask me About:** 
+- React & Next.js development
+- Event management & sponsorship strategies
+- Financial planning for large-scale events
+- Building full-stack web applications
+- Getting started with Machine Learning
+- Database design with PostgreSQL
+- Managing tech teams and finance committee
+- TypeScript best practices
+- Data analysis and visualization techniques
+- Breaking into tech as a student developer
 ---
 
 ## 📫 Connect With Me
