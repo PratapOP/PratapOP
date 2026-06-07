@@ -10,23 +10,15 @@
 
 🎓 **Bachelor of Technology** student in Information Technology at **Jaypee University of Information Technology** (Class of 2027)
 
-💼 **Head Coordinator** of Finance Committee @JUIT Youth Club (JYC) | Managing sponsorships and budgeting for large-scale events
+💻 **Product Management Intern** at Meditech Innovations.
+
+💼 **Ex Head Coordinator** of Finance Committee @JUIT Youth Club (JYC) | Managing sponsorships and budgeting for large-scale events
 
 💻 Former **Full Stack Developer Intern** at RangManch Event Management Pvt. Ltd.
 
 📊 Passionate about **data-driven decision-making**, **web technologies**, and **financial optimization**
 
 📍 Based in Noida, Uttar Pradesh, India
-
-🌱 **Currently Learning:** 
-_[Not in Order]_
-- AWS
-- Docker
-- Generative AI
-- Building LLM
-- MERN Stack
-- Data Structures
-- Power BI
 
 👯 **Looking to Collaborate On:**
 - Development on Behaviour Reading AI
@@ -81,22 +73,18 @@ _[Not in Order]_
 
 ## 💼 Professional Experience
 
+### 🏆 Meditech Innovations
+**Product Management Intern** *(May 2026 - Present)*
+
 ### 🏆 JUIT Youth Club (JYC)
-**Finance Committee Head Coordinator** *(August 2025 - Present)*
-- Collaborated with sponsors such as **Decathlon** and **AbhiBus** for PARAKRAM 2025
-- Initiated partnerships with **RedBus**, **Belgium Waffles**, **Decathlon**, **RedBus**, **UNSTOP**, **Nescafé**, and **Dominos**
-- Secured and managed sponsorships worth **INR 2+ lakhs** for annual college fest.
+**Finance Committee Head Coordinator** *(August 2025 - June 2026)*
 
 ### 💻 RangManch Event Management
 **Full Stack Developer Intern** *(May 2025 - September 2025)*
-- Developed full-stack web applications using **React.js**, **Next.js**, **TypeScript**, and **PostgreSQL**
-- Developed a fully functional and Optimum website.
 
 ### 💻 RangManch Event Management
 **Management Trainee** *(June 2025 - September 2025)
-- Spearheaded outreach to potential sponsors, securing funding for events
-- Coordinated with vendors and partners for smooth operations
-- Managed overall functionality of the event.
+
 ---
 
 ## 🎯 Skills
