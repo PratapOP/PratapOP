@@ -1,8 +1,8 @@
 # Hi 👋, I'm Abhiuday Pratap Singh
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;" alt="Typing SVG" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Finance+Enthusiast;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Software+Developer;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Finance+&+Management;" alt="Typing SVG" />
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analysis;" alt="Typing SVG" />
 </div>
 
@@ -10,13 +10,13 @@
 
 🎓 **Bachelor of Technology** student in Information Technology at **Jaypee University of Information Technology** (Class of 2027)
 
-💻 **Game Development Instructor Intern** at Moonpreneur.
+💻 **Game Development Instructor Intern** at Moonpreneur. | July, 2026 - Present
 
-💻 Former **Product Management Intern** at Meditech Innovations.
+💻 Former **Product Management Intern** at Meditech Innovations. | May, 2026 - July, 2026
 
-💼 Former **Head Coordinator** of Finance Committee @JUIT Youth Club (JYC) | Managing sponsorships and budgeting for large-scale events
+💼 Former **Head Coordinator** of Finance Committee @JUIT Youth Club (JYC) | August, 2025 - July, 2026
 
-💻 Former **Full Stack Developer Intern** at RangManch Event Management Pvt. Ltd.
+💻 Former **Full Stack Developer Intern** & **Management Trainee** at RangManch Event Management Pvt. Ltd. | April, 2024 - October, 2024
 
 📊 Passionate about **data-driven decision-making**, **web technologies**, and **financial optimization**
 
@@ -75,17 +75,20 @@
 
 ## 💼 Professional Experience
 
-### 🏆 Meditech Innovations
-**Product Management Intern** *(May 2026 - Present)*
+### 💻 Moonpreneur
+**Game Development Instructor Intern** *(July 2026 - Present)*
 
-### 🏆 JUIT Youth Club (JYC)
-**Finance Committee Head Coordinator** *(August 2025 - June 2026)*
+### 💻 Meditech Innovations
+**Product Management Intern** *(May 2026 - July 2026)*
+
+### 🏆 Finance Committee, JUIT Youth Club (JYC)
+**Head Coordinator** *(August 2025 - July 2026)*
 
 ### 💻 RangManch Event Management
-**Full Stack Developer Intern** *(May 2025 - September 2025)*
+**Full Stack Developer Intern** *(April 2025 - October 2025)*
 
 ### 💻 RangManch Event Management
-**Management Trainee** *(June 2025 - September 2025)
+**Management Trainee** *(April 2025 - October 2025)
 
 ---
 
