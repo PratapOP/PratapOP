@@ -10,9 +10,11 @@
 
 🎓 **Bachelor of Technology** student in Information Technology at **Jaypee University of Information Technology** (Class of 2027)
 
-💻 **Product Management Intern** at Meditech Innovations.
+💻 **Game Development Instructor Intern** at Moonpreneur.
 
-💼 **Ex Head Coordinator** of Finance Committee @JUIT Youth Club (JYC) | Managing sponsorships and budgeting for large-scale events
+💻 Former **Product Management Intern** at Meditech Innovations.
+
+💼 Former **Head Coordinator** of Finance Committee @JUIT Youth Club (JYC) | Managing sponsorships and budgeting for large-scale events
 
 💻 Former **Full Stack Developer Intern** at RangManch Event Management Pvt. Ltd.
 
