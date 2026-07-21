@@ -10,9 +10,7 @@
 
 🎓 **Bachelor of Technology** student in Information Technology at **Jaypee University of Information Technology** (Class of 2027)
 
-💻 **Game Development Instructor Intern** at Moonpreneur. | July, 2026 - Present
-
-💻 Former **Product Management Intern** at Meditech Innovations. | May, 2026 - July, 2026
+💻 **Product Management Intern** at Meditech Innovations. | May, 2026 - Present
 
 💼 Former **Head Coordinator** of Finance Committee @JUIT Youth Club (JYC) | August, 2025 - July, 2026
 
@@ -75,11 +73,8 @@
 
 ## 💼 Professional Experience
 
-### 💻 Moonpreneur
-**Game Development Instructor Intern** *(July 2026 - Present)*
-
 ### 💻 Meditech Innovations
-**Product Management Intern** *(May 2026 - July 2026)*
+**Product Management Intern** *(May 2026 - Present)*
 
 ### 🏆 Finance Committee, JUIT Youth Club (JYC)
 **Head Coordinator** *(August 2025 - July 2026)*
@@ -88,7 +83,7 @@
 **Full Stack Developer Intern** *(April 2025 - October 2025)*
 
 ### 💻 RangManch Event Management
-**Management Trainee** *(April 2025 - October 2025)
+**Management Trainee** *(April 2025 - October 2025)*
 
 ---
 
